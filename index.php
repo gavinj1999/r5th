@@ -29,7 +29,12 @@
 <link rel="stylesheet" href="assets/plugins/owlcarousel/owl.carousel.min.css">
 <link rel="stylesheet" href="assets/plugins/mfp/jquery.mfp.css">
 
-
+<!-- Additional styles -->
+<style>
+#culture {
+	background-image: url(demo/img/culture-bg.jpg);
+}
+</style>
 </head>
 
 <body>
